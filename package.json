@@ -1,6 +1,6 @@
 {
   "name": "@suin/non-exhaustive-error",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "An error class to detect non-exhaustive if/switch statements in TypeScript.",
   "keywords": [
     "error"
